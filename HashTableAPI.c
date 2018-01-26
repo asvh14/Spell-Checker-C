@@ -1,10 +1,3 @@
-/**
- * @file HashTableAPI.h
- * @author Michael Ellis
- * @date February 2017
- * @brief File containing the function definitions of a hash table
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
